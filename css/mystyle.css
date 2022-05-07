@@ -1,0 +1,62 @@
+*{
+ padding: 0px;
+ margin: 0px;   
+ }
+ #indexBack{
+background-size: cover;
+ }
+.land-page{
+       border: 2px solid red;
+       margin: auto;
+       text-align: center;
+       margin-top: 20%;
+       
+   }
+   .land-page h1{
+     color: blue;
+     
+ }
+
+ /* Login form */
+
+ .loginform{
+     margin: auto;
+     margin-top: 10%;
+     width: 400px;
+     padding: 40px;
+     border: 3px solid blue;
+      }
+#btn-submit{
+    text-align: center;
+    width: 90px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    float: right;    
+}
+
+#lusername{
+    width: 90%;
+    height: 35px;
+}
+#lpassword{
+    width: 90%;
+    height: 35px;
+}
+#lblstyle{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
+
+ /* /Login Form */
+
+ /* Home Page */
+
+ #myTodoList{
+    margin: auto; 
+    margin-top: 20px;
+    width: 80%;
+     border: 2px solid blue;
+ }
+
+ /* /Home Page */
